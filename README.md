@@ -1,4 +1,4 @@
-# Kyo Sound v8.0 - Update Terbesar!
+# Kyo Sound v8.0
 
 <p align="center">
   <a href="https://github.com/USERNAME/NAMA-REPO/releases/latest/download/KyoSound-v8.0.apk">
