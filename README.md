@@ -24,7 +24,7 @@
 
 ### 📥 Download & Cara Update
 
-**[KLIK DISINI UNTUK DOWNLOAD LANGSUNG v8.0](https://github.com/USERNAME/NAMA-REPO/releases/latest/download/KyoSound-v8.0.apk)**
+**[KLIK DISINI UNTUK DOWNLOAD LANGSUNG v8.0](https://github.com/kyo404-cmd/KyoSound/releases/download/v8.0.0/KyoSound-v8.0.apk)**
 
 Cara update gampang:
 1. Klik tombol/link download di atas
